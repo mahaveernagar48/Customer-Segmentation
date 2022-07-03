@@ -1,5 +1,3 @@
-# Customer-Segmentation
-
 <h1 id="customer_segmentation_K_means">Customer Segmentation with K-Means</h1>
 
 Imagine that we have a customer dataset, and we need to apply customer segmentation on this historical data.
